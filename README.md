@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how to code discord bots using Python
 
 - 📝 If you want me to code something for you just hit me up here or on my discord
-- 📫 Discord: https://discord.gg/
+- 📫 Discord: https://discord.io/peeknotpeak
 
 <!---
 PeekNotPeak/PeekNotPeak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
